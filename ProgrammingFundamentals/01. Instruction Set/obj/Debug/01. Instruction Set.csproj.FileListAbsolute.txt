@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Instruction Set\bin\Debug\_01.Instruction_Set.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Instruction Set\bin\Debug\_01.Instruction_Set.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Instruction Set\bin\Debug\_01.Instruction_Set.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Instruction Set\obj\Debug\_01.Instruction_Set.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Instruction Set\obj\Debug\_01.Instruction_Set.pdb

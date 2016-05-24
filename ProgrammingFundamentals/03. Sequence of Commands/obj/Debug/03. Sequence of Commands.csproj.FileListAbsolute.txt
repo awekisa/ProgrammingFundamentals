@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sequence of Commands\bin\Debug\_03.Sequence_of_Commands.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sequence of Commands\bin\Debug\_03.Sequence_of_Commands.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sequence of Commands\bin\Debug\_03.Sequence_of_Commands.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sequence of Commands\obj\Debug\03. Sequence of Commands.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sequence of Commands\obj\Debug\_03.Sequence_of_Commands.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sequence of Commands\obj\Debug\_03.Sequence_of_Commands.pdb

@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Be Positive\bin\Debug\_02.Be_Positive.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Be Positive\bin\Debug\_02.Be_Positive.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Be Positive\bin\Debug\_02.Be_Positive.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Be Positive\obj\Debug\_02.Be_Positive.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Be Positive\obj\Debug\_02.Be_Positive.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Be Positive\obj\Debug\02. Be Positive.csprojResolveAssemblyReference.cache

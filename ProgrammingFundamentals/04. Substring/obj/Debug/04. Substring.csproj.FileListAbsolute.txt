@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Substring\bin\Debug\_04.Substring.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Substring\bin\Debug\_04.Substring.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Substring\bin\Debug\_04.Substring.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Substring\obj\Debug\_04.Substring.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Substring\obj\Debug\_04.Substring.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Substring\obj\Debug\04. Substring.csprojResolveAssemblyReference.cache
