@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rounding Numbers\bin\Debug\_06.Rounding_Numbers.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rounding Numbers\bin\Debug\_06.Rounding_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rounding Numbers\bin\Debug\_06.Rounding_Numbers.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rounding Numbers\obj\Debug\_06.Rounding_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rounding Numbers\obj\Debug\_06.Rounding_Numbers.pdb

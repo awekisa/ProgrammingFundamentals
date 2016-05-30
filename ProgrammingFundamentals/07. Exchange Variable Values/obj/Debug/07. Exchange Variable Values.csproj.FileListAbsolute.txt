@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

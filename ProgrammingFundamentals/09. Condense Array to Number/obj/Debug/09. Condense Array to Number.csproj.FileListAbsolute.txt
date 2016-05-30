@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Condense Array to Number\bin\Debug\_09.Condense_Array_to_Number.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Condense Array to Number\bin\Debug\_09.Condense_Array_to_Number.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Condense Array to Number\bin\Debug\_09.Condense_Array_to_Number.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Condense Array to Number\obj\Debug\_09.Condense_Array_to_Number.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Condense Array to Number\obj\Debug\_09.Condense_Array_to_Number.pdb

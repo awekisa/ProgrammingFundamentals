@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Tripple Sum\bin\Debug\_05.Tripple_Sum.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Tripple Sum\bin\Debug\_05.Tripple_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Tripple Sum\bin\Debug\_05.Tripple_Sum.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Tripple Sum\obj\Debug\_05.Tripple_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Tripple Sum\obj\Debug\_05.Tripple_Sum.pdb

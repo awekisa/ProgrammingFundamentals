@@ -18,7 +18,7 @@ public class Substring
             {
                 hasMatch = true;
 
-                int endIndex = jump+1;
+                int endIndex = jump;
 
                 if (endIndex + i >= text.Length)
                 {
@@ -27,7 +27,7 @@ public class Substring
                     break;
                 }
 
-                matchedString = text.Substring(i, endIndex);
+                matchedString = text.Substring(i, endIndex+1);
                 Console.WriteLine(matchedString);
                 i += endIndex;
             }

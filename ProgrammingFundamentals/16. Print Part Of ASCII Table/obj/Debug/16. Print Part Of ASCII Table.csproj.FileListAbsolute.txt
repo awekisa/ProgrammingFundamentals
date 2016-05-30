@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\16. Print Part Of ASCII Table\obj\Debug\_16.Print_Part_Of_ASCII_Table.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\16. Print Part Of ASCII Table\obj\Debug\_16.Print_Part_Of_ASCII_Table.pdb

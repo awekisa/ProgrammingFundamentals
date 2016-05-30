@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\21. Numbers In Reversed Order\obj\Debug\_21.Numbers_In_Reversed_Order.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\21. Numbers In Reversed Order\obj\Debug\_21.Numbers_In_Reversed_Order.pdb

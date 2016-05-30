@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.pdb

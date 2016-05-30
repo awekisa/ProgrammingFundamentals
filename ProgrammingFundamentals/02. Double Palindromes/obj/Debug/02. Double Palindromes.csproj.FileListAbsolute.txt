@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.pdb

@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

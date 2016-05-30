@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb

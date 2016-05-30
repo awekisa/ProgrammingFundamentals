@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\17. Different Integers Size\obj\Debug\17. Different Integers Size.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.pdb

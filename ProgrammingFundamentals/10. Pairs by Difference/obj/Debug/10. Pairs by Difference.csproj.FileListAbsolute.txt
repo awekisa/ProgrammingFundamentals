@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

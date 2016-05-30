@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb

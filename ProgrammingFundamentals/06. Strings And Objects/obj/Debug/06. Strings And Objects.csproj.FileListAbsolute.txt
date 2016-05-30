@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

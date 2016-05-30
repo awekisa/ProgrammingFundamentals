@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\18. Hello, Name!\bin\Debug\_18.Hello__Name_.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\18. Hello, Name!\bin\Debug\_18.Hello__Name_.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\18. Hello, Name!\bin\Debug\_18.Hello__Name_.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\18. Hello, Name!\obj\Debug\_18.Hello__Name_.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\18. Hello, Name!\obj\Debug\_18.Hello__Name_.pdb

@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\15. Comparing floats\bin\Debug\_15.Comparing_floats.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\15. Comparing floats\bin\Debug\_15.Comparing_floats.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\15. Comparing floats\bin\Debug\_15.Comparing_floats.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\15. Comparing floats\obj\Debug\_15.Comparing_floats.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\15. Comparing floats\obj\Debug\_15.Comparing_floats.pdb

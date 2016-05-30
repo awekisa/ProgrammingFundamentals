@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

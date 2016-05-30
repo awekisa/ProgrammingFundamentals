@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week\obj\Debug\01. Day of Week.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb

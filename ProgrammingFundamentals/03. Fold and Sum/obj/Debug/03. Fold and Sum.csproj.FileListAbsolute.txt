@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Fold and Sum\obj\Debug\03. Fold and Sum.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.pdb

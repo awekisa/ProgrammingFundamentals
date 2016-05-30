@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\24. Primes in Given Range\bin\Debug\_24.Primes_in_Given_Range.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\24. Primes in Given Range\bin\Debug\_24.Primes_in_Given_Range.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\24. Primes in Given Range\bin\Debug\_24.Primes_in_Given_Range.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\24. Primes in Given Range\obj\Debug\_24.Primes_in_Given_Range.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\24. Primes in Given Range\obj\Debug\_24.Primes_in_Given_Range.pdb

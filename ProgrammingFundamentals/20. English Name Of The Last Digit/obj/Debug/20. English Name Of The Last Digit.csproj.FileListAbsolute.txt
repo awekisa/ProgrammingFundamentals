@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.pdb

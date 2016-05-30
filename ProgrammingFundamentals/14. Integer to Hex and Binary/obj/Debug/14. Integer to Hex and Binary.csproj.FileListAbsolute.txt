@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb

@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

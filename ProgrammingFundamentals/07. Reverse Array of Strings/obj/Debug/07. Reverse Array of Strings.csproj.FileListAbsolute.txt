@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Reverse Array of Strings\bin\Debug\_07.Reverse_Array_of_Strings.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Reverse Array of Strings\bin\Debug\_07.Reverse_Array_of_Strings.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Reverse Array of Strings\bin\Debug\_07.Reverse_Array_of_Strings.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Reverse Array of Strings\obj\Debug\_07.Reverse_Array_of_Strings.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Reverse Array of Strings\obj\Debug\_07.Reverse_Array_of_Strings.pdb

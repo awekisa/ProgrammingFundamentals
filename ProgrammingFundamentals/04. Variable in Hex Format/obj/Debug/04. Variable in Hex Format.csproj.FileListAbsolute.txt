@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb
