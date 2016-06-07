@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb

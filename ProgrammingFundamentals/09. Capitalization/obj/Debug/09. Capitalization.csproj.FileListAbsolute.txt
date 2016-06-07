@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Capitalization\bin\Debug\_09.Capitalization.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Capitalization\bin\Debug\_09.Capitalization.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Capitalization\bin\Debug\_09.Capitalization.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Capitalization\obj\Debug\_09.Capitalization.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Capitalization\obj\Debug\_09.Capitalization.pdb

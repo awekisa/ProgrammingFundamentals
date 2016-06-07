@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\13. Tour\bin\Debug\_13.Tour.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\13. Tour\bin\Debug\_13.Tour.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\13. Tour\bin\Debug\_13.Tour.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\13. Tour\obj\Debug\13. Tour.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\13. Tour\obj\Debug\_13.Tour.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\13. Tour\obj\Debug\_13.Tour.pdb

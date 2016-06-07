@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Occurrences in String\bin\Debug\_04.Occurrences_in_String.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Occurrences in String\bin\Debug\_04.Occurrences_in_String.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Occurrences in String\bin\Debug\_04.Occurrences_in_String.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Occurrences in String\obj\Debug\_04.Occurrences_in_String.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Occurrences in String\obj\Debug\_04.Occurrences_in_String.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Occurrences in String\obj\Debug\04. Occurrences in String.csprojResolveAssemblyReference.cache

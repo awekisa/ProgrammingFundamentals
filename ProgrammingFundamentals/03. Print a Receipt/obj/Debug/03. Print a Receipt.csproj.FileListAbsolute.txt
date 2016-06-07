@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Print a Receipt\obj\Debug\03. Print a Receipt.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Print a Receipt\obj\Debug\_03.Print_a_Receipt.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Print a Receipt\obj\Debug\_03.Print_a_Receipt.pdb

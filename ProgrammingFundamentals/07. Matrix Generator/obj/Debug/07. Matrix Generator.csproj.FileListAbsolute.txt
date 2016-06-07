@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Matrix Generator\bin\Debug\_07.Matrix_Generator.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Matrix Generator\bin\Debug\_07.Matrix_Generator.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Matrix Generator\bin\Debug\_07.Matrix_Generator.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Matrix Generator\obj\Debug\07. Matrix Generator.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Matrix Generator\obj\Debug\_07.Matrix_Generator.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Matrix Generator\obj\Debug\_07.Matrix_Generator.pdb

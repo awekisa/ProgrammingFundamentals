@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Common Strings\bin\Debug\_11.Common_Strings.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Common Strings\bin\Debug\_11.Common_Strings.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Common Strings\bin\Debug\_11.Common_Strings.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Common Strings\obj\Debug\_11.Common_Strings.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Common Strings\obj\Debug\_11.Common_Strings.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Common Strings\obj\Debug\11. Common Strings.csprojResolveAssemblyReference.cache

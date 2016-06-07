@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Phonebook\bin\Debug\_12.Phonebook.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Phonebook\bin\Debug\_12.Phonebook.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Phonebook\bin\Debug\_12.Phonebook.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Phonebook\obj\Debug\12. Phonebook.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Phonebook\obj\Debug\_12.Phonebook.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Phonebook\obj\Debug\_12.Phonebook.pdb

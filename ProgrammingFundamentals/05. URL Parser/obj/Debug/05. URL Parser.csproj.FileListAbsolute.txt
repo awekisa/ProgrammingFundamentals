@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. URL Parser\bin\Debug\_05.URL_Parser.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. URL Parser\bin\Debug\_05.URL_Parser.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. URL Parser\bin\Debug\_05.URL_Parser.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. URL Parser\obj\Debug\05. URL Parser.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. URL Parser\obj\Debug\_05.URL_Parser.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. URL Parser\obj\Debug\_05.URL_Parser.pdb

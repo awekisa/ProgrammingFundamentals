@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Bomb Numbers\bin\Debug\_12.Bomb_Numbers.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Bomb Numbers\bin\Debug\_12.Bomb_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Bomb Numbers\bin\Debug\_12.Bomb_Numbers.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Bomb Numbers\obj\Debug\12. Bomb Numbers.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Bomb Numbers\obj\Debug\_12.Bomb_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\12. Bomb Numbers\obj\Debug\_12.Bomb_Numbers.pdb

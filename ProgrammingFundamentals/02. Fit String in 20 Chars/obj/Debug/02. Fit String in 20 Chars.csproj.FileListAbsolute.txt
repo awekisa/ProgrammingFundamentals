@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Fit String in 20 Chars\bin\Debug\_02.Fit_String_in_20_Chars.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Fit String in 20 Chars\bin\Debug\_02.Fit_String_in_20_Chars.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Fit String in 20 Chars\bin\Debug\_02.Fit_String_in_20_Chars.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Fit String in 20 Chars\obj\Debug\_02.Fit_String_in_20_Chars.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Fit String in 20 Chars\obj\Debug\_02.Fit_String_in_20_Chars.pdb

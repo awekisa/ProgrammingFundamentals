@@ -1,1 +1,6 @@
 D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Animal Type\bin\Debug\_09.Animal_Type.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Animal Type\bin\Debug\_09.Animal_Type.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Animal Type\bin\Debug\_09.Animal_Type.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Animal Type\obj\Debug\09. Animal Type.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Animal Type\obj\Debug\_09.Animal_Type.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\09. Animal Type\obj\Debug\_09.Animal_Type.pdb

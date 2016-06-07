@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

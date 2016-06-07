@@ -1,1 +1,5 @@
 D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Greeting\bin\Debug\_07.Greeting.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Greeting\bin\Debug\_07.Greeting.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Greeting\bin\Debug\_07.Greeting.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Greeting\obj\Debug\_07.Greeting.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Greeting\obj\Debug\_07.Greeting.pdb

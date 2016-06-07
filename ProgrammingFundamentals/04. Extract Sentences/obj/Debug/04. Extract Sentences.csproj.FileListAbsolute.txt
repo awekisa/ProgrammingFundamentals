@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Extract Sentences\bin\Debug\_04.Extract_Sentences.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Extract Sentences\bin\Debug\_04.Extract_Sentences.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Extract Sentences\bin\Debug\_04.Extract_Sentences.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Extract Sentences\obj\Debug\_04.Extract_Sentences.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Extract Sentences\obj\Debug\_04.Extract_Sentences.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Extract Sentences\obj\Debug\04. Extract Sentences.csprojResolveAssemblyReference.cache

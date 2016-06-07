@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Censor Your Email\bin\Debug\_03.Censor_Your_Email.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Censor Your Email\bin\Debug\_03.Censor_Your_Email.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Censor Your Email\bin\Debug\_03.Censor_Your_Email.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Censor Your Email\obj\Debug\_03.Censor_Your_Email.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Censor Your Email\obj\Debug\_03.Censor_Your_Email.pdb

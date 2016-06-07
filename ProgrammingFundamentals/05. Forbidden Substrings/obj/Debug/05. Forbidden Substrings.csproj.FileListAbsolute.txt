@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Forbidden Substrings\bin\Debug\_05.Forbidden_Substrings.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Forbidden Substrings\bin\Debug\_05.Forbidden_Substrings.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Forbidden Substrings\bin\Debug\_05.Forbidden_Substrings.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Forbidden Substrings\obj\Debug\05. Forbidden Substrings.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Forbidden Substrings\obj\Debug\_05.Forbidden_Substrings.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Forbidden Substrings\obj\Debug\_05.Forbidden_Substrings.pdb

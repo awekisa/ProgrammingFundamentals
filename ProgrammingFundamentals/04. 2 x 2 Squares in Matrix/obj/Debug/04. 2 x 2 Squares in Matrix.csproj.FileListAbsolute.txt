@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. 2 x 2 Squares in Matrix\bin\Debug\04. 2 x 2 Squares in Matrix.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. 2 x 2 Squares in Matrix\bin\Debug\04. 2 x 2 Squares in Matrix.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. 2 x 2 Squares in Matrix\bin\Debug\04. 2 x 2 Squares in Matrix.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. 2 x 2 Squares in Matrix\obj\Debug\04. 2 x 2 Squares in Matrix.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. 2 x 2 Squares in Matrix\obj\Debug\04. 2 x 2 Squares in Matrix.pdb

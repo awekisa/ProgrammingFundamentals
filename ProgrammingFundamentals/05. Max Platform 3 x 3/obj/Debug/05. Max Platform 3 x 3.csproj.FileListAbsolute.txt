@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Max Platform 3 x 3\bin\Debug\_05.Max_Platform_3_x_3.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Max Platform 3 x 3\bin\Debug\_05.Max_Platform_3_x_3.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Max Platform 3 x 3\bin\Debug\_05.Max_Platform_3_x_3.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Max Platform 3 x 3\obj\Debug\05. Max Platform 3 x 3.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Max Platform 3 x 3\obj\Debug\_05.Max_Platform_3_x_3.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Max Platform 3 x 3\obj\Debug\_05.Max_Platform_3_x_3.pdb

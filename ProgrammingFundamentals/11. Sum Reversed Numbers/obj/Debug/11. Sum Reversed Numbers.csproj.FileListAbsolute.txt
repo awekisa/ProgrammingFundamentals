@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Sum Reversed Numbers\bin\Debug\_11.Sum_Reversed_Numbers.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Sum Reversed Numbers\bin\Debug\_11.Sum_Reversed_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Sum Reversed Numbers\bin\Debug\_11.Sum_Reversed_Numbers.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Sum Reversed Numbers\obj\Debug\_11.Sum_Reversed_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\11. Sum Reversed Numbers\obj\Debug\_11.Sum_Reversed_Numbers.pdb

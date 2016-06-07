@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. To Uppercase\bin\Debug\_07.To_Uppercase.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. To Uppercase\bin\Debug\_07.To_Uppercase.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. To Uppercase\bin\Debug\_07.To_Uppercase.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. To Uppercase\obj\Debug\07. To Uppercase.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. To Uppercase\obj\Debug\_07.To_Uppercase.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. To Uppercase\obj\Debug\_07.To_Uppercase.pdb

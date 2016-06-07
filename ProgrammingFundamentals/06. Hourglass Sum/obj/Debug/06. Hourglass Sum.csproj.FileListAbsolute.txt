@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Hourglass Sum\bin\Debug\_06.Hourglass_Sum.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Hourglass Sum\bin\Debug\_06.Hourglass_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Hourglass Sum\bin\Debug\_06.Hourglass_Sum.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Hourglass Sum\obj\Debug\06. Hourglass Sum.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Hourglass Sum\obj\Debug\_06.Hourglass_Sum.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Hourglass Sum\obj\Debug\_06.Hourglass_Sum.pdb

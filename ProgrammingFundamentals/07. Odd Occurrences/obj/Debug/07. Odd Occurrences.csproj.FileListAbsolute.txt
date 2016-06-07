@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Odd Occurrences\bin\Debug\_07.Odd_Occurrences.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Odd Occurrences\bin\Debug\_07.Odd_Occurrences.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Odd Occurrences\bin\Debug\_07.Odd_Occurrences.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Odd Occurrences\obj\Debug\_07.Odd_Occurrences.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Odd Occurrences\obj\Debug\_07.Odd_Occurrences.pdb

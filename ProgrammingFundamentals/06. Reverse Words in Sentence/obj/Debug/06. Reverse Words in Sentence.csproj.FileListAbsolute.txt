@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Reverse Words in Sentence\bin\Debug\_06.Reverse_Words_in_Sentence.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Reverse Words in Sentence\bin\Debug\_06.Reverse_Words_in_Sentence.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Reverse Words in Sentence\bin\Debug\_06.Reverse_Words_in_Sentence.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Reverse Words in Sentence\obj\Debug\06. Reverse Words in Sentence.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Reverse Words in Sentence\obj\Debug\_06.Reverse_Words_in_Sentence.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Reverse Words in Sentence\obj\Debug\_06.Reverse_Words_in_Sentence.pdb

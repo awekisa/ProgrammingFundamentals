@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Count Numbers\obj\Debug\07. Count Numbers.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb

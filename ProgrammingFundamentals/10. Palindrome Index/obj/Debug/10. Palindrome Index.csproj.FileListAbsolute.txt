@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Palindrome Index\bin\Debug\_10.Palindrome_Index.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Palindrome Index\bin\Debug\_10.Palindrome_Index.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Palindrome Index\bin\Debug\_10.Palindrome_Index.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Palindrome Index\obj\Debug\_10.Palindrome_Index.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\10. Palindrome Index\obj\Debug\_10.Palindrome_Index.pdb
