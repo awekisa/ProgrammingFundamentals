@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Big Factorial\bin\Debug\_03.Big_Factorial.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Big Factorial\obj\Debug\03. Big Factorial.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Big Factorial\obj\Debug\_03.Big_Factorial.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Big Factorial\obj\Debug\_03.Big_Factorial.pdb

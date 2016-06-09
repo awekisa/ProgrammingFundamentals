@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Randomize Words\bin\Debug\_02.Randomize_Words.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Randomize Words\obj\Debug\_02.Randomize_Words.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Randomize Words\obj\Debug\_02.Randomize_Words.pdb

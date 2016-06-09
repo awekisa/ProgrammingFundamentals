@@ -1,0 +1,5 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.pdb

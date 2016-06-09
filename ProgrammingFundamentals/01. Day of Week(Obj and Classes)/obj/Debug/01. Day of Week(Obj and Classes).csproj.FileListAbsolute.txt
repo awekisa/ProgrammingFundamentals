@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week(Obj and Classes)\bin\Debug\_01.Day_of_Week_Obj_and_Classes_.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week(Obj and Classes)\obj\Debug\01. Day of Week(Obj and Classes).csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week(Obj and Classes)\bin\Debug\_01.Day_of_Week_Obj_and_Classes_.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week(Obj and Classes)\bin\Debug\_01.Day_of_Week_Obj_and_Classes_.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week(Obj and Classes)\obj\Debug\_01.Day_of_Week_Obj_and_Classes_.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\01. Day of Week(Obj and Classes)\obj\Debug\_01.Day_of_Week_Obj_and_Classes_.pdb

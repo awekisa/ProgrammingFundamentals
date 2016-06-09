@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb

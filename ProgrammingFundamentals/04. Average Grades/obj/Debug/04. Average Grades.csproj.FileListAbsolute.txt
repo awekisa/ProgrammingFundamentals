@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Average Grades\bin\Debug\_04.Average_Grades.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Average Grades\bin\Debug\_04.Average_Grades.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Average Grades\bin\Debug\_04.Average_Grades.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Average Grades\obj\Debug\04. Average Grades.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Average Grades\obj\Debug\_04.Average_Grades.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\04. Average Grades\obj\Debug\_04.Average_Grades.pdb

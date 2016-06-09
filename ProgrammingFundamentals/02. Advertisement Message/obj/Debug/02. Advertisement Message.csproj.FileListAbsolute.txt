@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Advertisement Message\obj\Debug\02. Advertisement Message.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

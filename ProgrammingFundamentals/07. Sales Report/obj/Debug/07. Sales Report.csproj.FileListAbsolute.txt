@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Sales Report\obj\Debug\07. Sales Report.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

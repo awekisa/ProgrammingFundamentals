@@ -1,0 +1,6 @@
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Circles Intersection\obj\Debug\03. Circles Intersection.csprojResolveAssemblyReference.cache
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+D:\Coding\Programming Fundamentals\ProgrammingFundamentals\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb
